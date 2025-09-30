@@ -178,33 +178,6 @@ While this is a personal portfolio, I'm open to suggestions and improvements! Fe
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-
-**Christopher Morales Reyes**
-- 🎓 Computer Science Student at Queens College
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 📄 Resume: [Download PDF](resume.pdf)
-
----
-
-⭐ If you found this portfolio helpful or inspiring, please consider giving it a star!
-
-**Built with ❤️ by Christopher Morales Reyes**
-
----
-
-## 🔄 Recent Updates
-
-- **v1.2.0** - Added social media integration and resume download
-- **v1.1.0** - Improved mobile responsiveness and animations
-- **v1.0.0** - Initial portfolio launch
-
 ## 🎯 Future Enhancements
 
 - [ ] Dark/Light theme toggle
